@@ -121,3 +121,12 @@ git push -u origin master
 git push origin master
 touch texto.txt
 git add
+git add .
+git status
+git commit
+git status
+touch texto.txt
+git add .
+git status
+git commit -u
+git push -u origin master
