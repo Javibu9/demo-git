@@ -130,3 +130,35 @@ git add .
 git status
 git commit -u
 git push -u origin master
+git add .
+git commit -m "Agregar index.html"
+git push
+$ git remote add antonioyjavi javiermoral2000@cloudshell:~ (trim-sum-228208)$
+$ git remote add antonioyjavi git@github.com:TonyeDAM/demo-git.git
+git remote add antonioyjavi git@github.com:TonyeDAM/demo-git.git
+git status
+git pull -u
+git pull -v
+git pull origin master
+git remote add antonioyjavi git@github.com:TonyeDAM/demo-git.git
+git fetch pb
+git get
+git fetch antonioyjavi
+git pull origin master
+git pull antonioyjavi master
+pwd
+mkdir github
+cd mkdir
+cd github
+git pull antonioyjavi master
+git fetch antonioyjavi
+git reset
+git fetch antonioyjavi
+git reset commit
+git reset <commit>
+touch hola.txt
+push -u
+git push
+git status
+git push origin master
+git commit
